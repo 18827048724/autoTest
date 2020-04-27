@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dc18c48-6528-4749-b2c3-45ac1bd99fce" name="Default Changelist" comment="" />
+    <list default="true" id="6dc18c48-6528-4749-b2c3-45ac1bd99fce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b7sRp2FKnOKCXEEtgkcjvaLmF3" />
@@ -16,6 +26,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -44,22 +55,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587994460280</updated>
-      <workItem from="1587994462443" duration="2022000" />
+      <workItem from="1587994462443" duration="2927000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1587997367864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587997367864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="93" key="#Project_Structure" timestamp="1587994989507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="93" key="#Project_Structure/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587994989507" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587997293627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997293627" />
     <state x="690" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587994470113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="319" key="#com.intellij.fileTypes.FileTypeChooser/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587994470113" />
+    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1587997362338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="83" key="CommitChangelistDialog2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997362338" />
+    <state x="53" y="100" width="1720" height="840" key="DiffContextDialog" timestamp="1587997077753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="53" y="100" width="1720" height="840" key="DiffContextDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997077753" />
     <state x="2660" y="190" key="FileChooserDialogImpl" timestamp="1587996095209">
       <screen x="1920" y="-84" width="1920" height="1040" />
     </state>
@@ -69,10 +104,22 @@
     </state>
     <state x="461" y="151" key="SettingsEditor/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587996491661" />
     <state x="653" y="283" key="SettingsEditor/1920.-84.1920.1040/0.0.1920.1040@1920.-84.1920.1040" timestamp="1587996473048" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587995710902">
+    <state x="53" y="100" width="1720" height="840" key="ShowDiffWithBranchDialog" timestamp="1587997077753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587995710902" />
+    <state x="53" y="100" width="1720" height="840" key="ShowDiffWithBranchDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997077753" />
+    <state x="680" y="234" key="VCS.ChangeListViewerDialog" timestamp="1587996592939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="680" y="234" key="VCS.ChangeListViewerDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587996592939" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587997380014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997380014" />
+    <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587997241102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997241102" />
     <state x="330" y="129" key="new project wizard" timestamp="1587994846412">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
