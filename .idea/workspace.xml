@@ -2,13 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dc18c48-6528-4749-b2c3-45ac1bd99fce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/DependTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/ExpectedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/IgonreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/MutilThread/MutiThreadOnXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/TimeoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/groups/GroupsOnClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/groups/GroupsOnClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/groups/GroupsOnClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/groups/GroupsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/paramter/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/paramter/ParamterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/suite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/suite/PayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/suite/SuiteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/Paramter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/groupsOnClass.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/mutilThread.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/main/resources/suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/Chapter5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/Chapter5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/testng/BasicAnnotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -29,6 +62,7 @@
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -43,10 +77,93 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="TestNG.D:/javaPorjects/muke/autoTest/Chapter5/src/main/resources/mutilThread.xml">
+    <configuration name="D:/javaPorjects/muke/autoTest/Chapter5/src/main/resources/Paramter.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter5/src/main/resources/Paramter.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/javaPorjects/muke/autoTest/Chapter5/src/main/resources/mutilThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter5/src/main/resources/mutilThread.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutiThreadOnXml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.MutilThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testng.MutilThread" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.MutilThread.MutiThreadOnXml" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeoutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.TimeoutTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeoutTest.timeoutcase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.TimeoutTest" />
+      <option name="METHOD_NAME" value="timeoutcase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/javaPorjects/muke/autoTest/Chapter5/src/main/resources/mutilThread.xml" />
+        <item itemvalue="TestNG.MutiThreadOnXml" />
+        <item itemvalue="TestNG.TimeoutTest" />
+        <item itemvalue="TestNG.TimeoutTest.timeoutcase" />
+        <item itemvalue="TestNG.D:/javaPorjects/muke/autoTest/Chapter5/src/main/resources/Paramter.xml" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\wangkui\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +172,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587994460280</updated>
-      <workItem from="1587994462443" duration="2927000" />
+      <workItem from="1587994462443" duration="6815000" />
+      <workItem from="1588001336454" duration="589000" />
+      <workItem from="1588060312414" duration="593000" />
+      <workItem from="1588066558642" duration="7909000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1587997367864</created>
@@ -64,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587997367864</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1587997643781</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587997643781</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,10 +214,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="319" key="#com.intellij.fileTypes.FileTypeChooser/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587994470113" />
-    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1587997362338">
+    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1587997638501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="83" key="CommitChangelistDialog2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997362338" />
+    <state x="558" y="83" key="CommitChangelistDialog2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997638501" />
     <state x="53" y="100" width="1720" height="840" key="DiffContextDialog" timestamp="1587997077753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -99,10 +226,26 @@
       <screen x="1920" y="-84" width="1920" height="1040" />
     </state>
     <state x="2660" y="190" key="FileChooserDialogImpl/1920.-84.1920.1040/0.0.1920.1040@1920.-84.1920.1040" timestamp="1587996095209" />
-    <state x="461" y="151" key="SettingsEditor" timestamp="1587996491661">
+    <state width="1876" height="341" key="GridCell.Tab.0.bottom" timestamp="1588075006108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="151" key="SettingsEditor/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587996491661" />
+    <state width="1876" height="341" key="GridCell.Tab.0.bottom/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588075006108" />
+    <state width="1876" height="341" key="GridCell.Tab.0.center" timestamp="1588075006107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="341" key="GridCell.Tab.0.center/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588075006107" />
+    <state width="1876" height="341" key="GridCell.Tab.0.left" timestamp="1588075006107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="341" key="GridCell.Tab.0.left/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588075006107" />
+    <state width="1876" height="341" key="GridCell.Tab.0.right" timestamp="1588075006107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="341" key="GridCell.Tab.0.right/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588075006107" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1587998057804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587998057804" />
     <state x="653" y="283" key="SettingsEditor/1920.-84.1920.1040/0.0.1920.1040@1920.-84.1920.1040" timestamp="1587996473048" />
     <state x="53" y="100" width="1720" height="840" key="ShowDiffWithBranchDialog" timestamp="1587997077753">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -112,10 +255,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="680" y="234" key="VCS.ChangeListViewerDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587996592939" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587997380014">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587997658249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997380014" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997658249" />
     <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587997241102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -124,5 +267,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="330" y="129" key="new project wizard/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587994846412" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588071152026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588071152026" />
   </component>
 </project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="thread" parallel="methods" thread-count="100">
+    <test name ="demo1">
+        <classes>
+            <class  name ="com.testng.MutilThread.MutiThreadOnXml"/>
+        </classes>
+
+    </test>
+
+<test name="demo2">
+    <classes>
+
+        <class name="com.testng.MutilThread.MutiThreadOnXml" />
+    </classes>
+
+
+</test>
+
+</suite>
