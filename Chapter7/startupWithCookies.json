@@ -1,25 +1,45 @@
 [
   {
-    "description": "这个是一个带cookies信息的get请求",
+    "description": "这是一个会返回cookies信息的get请求",
     "request": {
-      "uri": "/get/with/cookies",
+      "uri": "/get/cookies",
       "method": "get",
       "cookies":{
         "login": "true"
       }
-
     },
     "response": {
+      "cookies": {
+        "status" : "true"
+      },
+      "text": "恭喜您获取cookies信息成功"
+    }
+  },
+
+
+  {
+    "description": "这是一个会返回cookies信息的get请求",
+    "request": {
+      "uri": "/get/with/cookies",
+      "method": "get"
+    },
+    "response": {
+      "cookies":{
+        "login" : "true"
+      },
       "text": "这是一个带cookies 的请求"
     }
   },
   {
-    "description": "这个是一个带cookies信息的get请求",
+    "description": "这个是一个带cookies信息的post请求",
     "request": {
       "uri": "/post/with/cookies",
       "method": "post",
       "cookies":{
         "login": "true"
+      },
+      "headers": {
+        "content-type": "application/json"
       },
       "json": {
         "name": "huhansan",
