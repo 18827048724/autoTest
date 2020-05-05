@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AutoTest3-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Chapter12/src/main/resources/AutoTest3-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

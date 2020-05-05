@@ -19,20 +19,105 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dc18c48-6528-4749-b2c3-45ac1bd99fce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter8/Chapter8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/cookies/MyCookiesForGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/cookies/MyCookiesForPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter8/src/main/resources/application.properties" afterDir="false" />
+    <list default="true" id="6dc18c48-6528-4749-b2c3-45ac1bd99fce" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/AutoTest3_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_6_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_6_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_6_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_21_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/moco_runner_0_11_0_standalone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/Chapter10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/MyGetMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/MyPostMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/java/hello/SampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter10/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter11/Chapter11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter11/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/controller/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/java/com/course/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/mapper/mysql.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter11/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/Chapter12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/AddUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/GetUserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/TestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/cases/UpdateUserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/AddUserCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/GetUserListCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/InterfaceName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/LoginCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/UpdateUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/ConfigFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/java/com/course/utils/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/databaseConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/mapper/SQLMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/testngTT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/src/main/resources/userManager.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter12/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/event.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log.2020-05-02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/startupWithCookies.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter7/startupWithCookies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/META-INF/Chapter5.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/test/util/ExtentTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/target/classes/com/test/util/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/test/util/ExtentTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/target/classes/com/test/util/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/test-output/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +129,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -58,6 +144,20 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../tools/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1b7sRp2FKnOKCXEEtgkcjvaLmF3" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -69,12 +169,16 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zhaolaobaoInterface" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter12/src/main/java/com/course/config" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -83,99 +187,61 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.course.config" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaPorjects\muke\autoTest\Chapter12\src\main\java\com\course\config" />
+      <recent name="D:\javaPorjects\muke\autoTest\Chapter12\src\main\resources" />
+      <recent name="D:\javaPorjects\muke\autoTest\Chapter12\src\main\java\com\course\cases" />
+      <recent name="D:\javaPorjects\muke\autoTest\Chapter11\src\main\resources" />
       <recent name="D:\javaPorjects\muke\autoTest\Chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.MyCookiesForPost">
-    <configuration name="MyCookiesForGet" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForGet" />
-      <option name="TEST_OBJECT" value="CLASS" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/autoTest/Chapter12/test-output/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="report.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/autoTest/Chapter12/test-output/report.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="D:/javaPorjects/muke/autoTest/Chapter12/src/main/resources/testngTT.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter12" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter12/src/main/resources/testngTT.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCookiesForGet.testGetCookies" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForGet" />
-      <option name="METHOD_NAME" value="testGetCookies" />
-      <option name="TEST_OBJECT" value="METHOD" />
+    <configuration name="D:/javaPorjects/muke/autoTest/Chapter12/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter12" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter12/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCookiesForPost" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForPost" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyCookiesForPost.testGetCookies" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForPost" />
-      <option name="METHOD_NAME" value="testGetCookies" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyCookiesForPost.testPostMethod" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForPost" />
-      <option name="METHOD_NAME" value="testPostMethod" />
-      <option name="TEST_OBJECT" value="METHOD" />
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter12" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <properties />
       <listeners />
       <method v="2">
@@ -184,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MyCookiesForPost" />
-        <item itemvalue="TestNG.MyCookiesForPost.testGetCookies" />
-        <item itemvalue="TestNG.MyCookiesForPost.testPostMethod" />
-        <item itemvalue="TestNG.MyCookiesForGet" />
-        <item itemvalue="TestNG.MyCookiesForGet.testGetCookies" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="TestNG.D:/javaPorjects/muke/autoTest/Chapter12/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.D:/javaPorjects/muke/autoTest/Chapter12/src/main/resources/testngTT.xml" />
+        <item itemvalue="JavaScript Debug.report.html" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +275,14 @@
       <workItem from="1588122407265" duration="15738000" />
       <workItem from="1588243589393" duration="7865000" />
       <workItem from="1588319399723" duration="13025000" />
-      <workItem from="1588387998537" duration="529000" />
+      <workItem from="1588387998537" duration="10763000" />
+      <workItem from="1588399924286" duration="16013000" />
+      <workItem from="1588468291000" duration="5386000" />
+      <workItem from="1588549021822" duration="7831000" />
+      <workItem from="1588561901399" duration="16116000" />
+      <workItem from="1588578257105" duration="1177000" />
+      <workItem from="1588579482184" duration="5567000" />
+      <workItem from="1588613131050" duration="1079000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1587997367864</created>
@@ -246,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588321038877</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1588388560957</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588388560957</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,59 +350,91 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="93" key="#Project_Structure" timestamp="1588130980048">
+    <state x="586" y="197" key="#Inspections" timestamp="1588392488561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="93" key="#Project_Structure/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588130980048" />
+    <state x="586" y="197" key="#Inspections/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588392488561" />
+    <state x="440" y="93" key="#Project_Structure" timestamp="1588429298844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="#Project_Structure/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588429298844" />
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588253856902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588253856902" />
-    <state x="690" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588255036543">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588571587880">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="319" key="#com.intellij.fileTypes.FileTypeChooser/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588255036543" />
-    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588153819515">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588571587880" />
+    <state x="690" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588577279857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588153819515" />
-    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1588321032889">
+    <state x="690" y="319" key="#com.intellij.fileTypes.FileTypeChooser/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588577279857" />
+    <state x="355" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1588572744360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="83" key="CommitChangelistDialog2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588321032889" />
+    <state x="355" y="224" key="#com.intellij.ide.util.MemberChooser/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588572744360" />
+    <state x="544" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588575851330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588575851330" />
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588580579919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588580579919" />
+    <state x="558" y="83" key="CommitChangelistDialog2" timestamp="1588388650985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="83" key="CommitChangelistDialog2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588388650985" />
     <state x="53" y="100" width="1720" height="840" key="DiffContextDialog" timestamp="1587997077753">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="53" y="100" width="1720" height="840" key="DiffContextDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997077753" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1588319616633">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1588577286390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588319616633" />
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588577286390" />
     <state x="2660" y="190" key="FileChooserDialogImpl/1920.-84.1920.1040/0.0.1920.1040@1920.-84.1920.1040" timestamp="1587996095209" />
-    <state width="1876" height="149" key="GridCell.Tab.0.bottom" timestamp="1588348519621">
+    <state width="1876" height="207" key="GridCell.Tab.0.bottom" timestamp="1588612983789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="149" key="GridCell.Tab.0.bottom/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588348519621" />
-    <state width="1876" height="149" key="GridCell.Tab.0.center" timestamp="1588348519621">
+    <state width="1876" height="207" key="GridCell.Tab.0.bottom/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588612983789" />
+    <state width="1876" height="207" key="GridCell.Tab.0.center" timestamp="1588612983789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="149" key="GridCell.Tab.0.center/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588348519621" />
-    <state width="1876" height="149" key="GridCell.Tab.0.left" timestamp="1588348519620">
+    <state width="1876" height="207" key="GridCell.Tab.0.center/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588612983789" />
+    <state width="1876" height="207" key="GridCell.Tab.0.left" timestamp="1588612983789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="149" key="GridCell.Tab.0.left/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588348519620" />
-    <state width="1876" height="149" key="GridCell.Tab.0.right" timestamp="1588348519621">
+    <state width="1876" height="207" key="GridCell.Tab.0.left/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588612983789" />
+    <state width="1876" height="207" key="GridCell.Tab.0.right" timestamp="1588612983789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="149" key="GridCell.Tab.0.right/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588348519621" />
+    <state width="1876" height="207" key="GridCell.Tab.0.right/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588612983789" />
+    <state width="1876" height="110" key="GridCell.Tab.1.bottom" timestamp="1588561873746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="110" key="GridCell.Tab.1.bottom/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588561873746" />
+    <state width="1876" height="110" key="GridCell.Tab.1.center" timestamp="1588561873746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="110" key="GridCell.Tab.1.center/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588561873746" />
+    <state width="1876" height="110" key="GridCell.Tab.1.left" timestamp="1588561873746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="110" key="GridCell.Tab.1.left/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588561873746" />
+    <state width="1876" height="110" key="GridCell.Tab.1.right" timestamp="1588561873746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="110" key="GridCell.Tab.1.right/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588561873746" />
     <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1588147275196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="174" key="Maven.ArtifactSearchDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588147275196" />
-    <state x="461" y="151" key="SettingsEditor" timestamp="1588259156027">
+    <state x="461" y="151" key="SettingsEditor" timestamp="1588612430389">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="151" key="SettingsEditor/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588259156027" />
+    <state x="461" y="151" key="SettingsEditor/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588612430389" />
     <state x="653" y="283" key="SettingsEditor/1920.-84.1920.1040/0.0.1920.1040@1920.-84.1920.1040" timestamp="1587996473048" />
     <state x="53" y="100" width="1720" height="840" key="ShowDiffWithBranchDialog" timestamp="1587997077753">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -332,22 +444,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="680" y="234" key="VCS.ChangeListViewerDialog/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587996592939" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1588259112693">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1588388663575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588259112693" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588388663575" />
     <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587997241102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587997241102" />
-    <state x="330" y="129" key="new project wizard" timestamp="1588320958210">
+    <state x="330" y="129" key="new project wizard" timestamp="1588581422410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="330" y="129" key="new project wizard/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588320958210" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588346787373">
+    <state x="330" y="129" key="new project wizard/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588581422410" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup" timestamp="1588573656885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588346787373" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588573656885" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588565076520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-84.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588565076520" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/autoTest$Extent_html.dat" NAME="Extent.html Coverage Results" MODIFIED="1588151606494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
